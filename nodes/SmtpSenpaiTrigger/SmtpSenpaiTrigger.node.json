@@ -1,0 +1,19 @@
+{
+	"node": "n8n-nodes-mailsenpai.smtpSenpaiTrigger",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Marketing & Content"],
+	"alias": ["email", "smtp", "bounce", "delivered", "complaint", "MailSenpai"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://github.com/mailsenpai/n8n-nodes-mailsenpai?tab=readme-ov-file#credentials"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://en.mailsenpai.com/smtp-api/"
+			}
+		]
+	}
+}
